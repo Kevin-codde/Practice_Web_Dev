@@ -3,7 +3,7 @@
 Este repositorio es un espacio de **práctica continua**. Aquí guardo pequeños proyectos y experimentos técnicos que desarrollo a medida que aprendo nuevas herramientas del ecosistema web.
 
 ### 🎯 Propósito
-- Documentar mi progreso de aprendizaje.
+- Documentar mi progreso de aprendizajes.
 - Guardar snippets y mini-apps funcionales.
 - Experimentar con lógica, estilos y frameworks.
 
